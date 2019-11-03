@@ -1,5 +1,5 @@
 # Yemek Sepeti
-[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png) 
+[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
 
 * Kullanıcı, ComboBox'lara Kebap ve Pilav olarak 2 çeşit ekleyecektir
 * Kullanıcı, ComboBox'lardan aynı yemekleri seçemez, bir ana yemek bir ara yemek seçebilir.
