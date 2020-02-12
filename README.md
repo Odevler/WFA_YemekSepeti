@@ -1,7 +1,6 @@
 # Yemek Sepeti
 [![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
 
-
 ![yemeksepeti](https://user-images.githubusercontent.com/13505194/68115511-9882ac80-ff09-11e9-9199-ff8051fa81a9.png)
 
 
